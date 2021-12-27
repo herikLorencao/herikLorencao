@@ -3,8 +3,8 @@
 
 <div>
   <a href="https://github.com/herikLorencao">
-    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=herikLorencao&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herikLorencao&layout=compact&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight">
+    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=herikLorencao&include_all_commits=true&count_private=true&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herikLorencao&layout=compact&include_all_commits=true&count_private=true&show_icons=true">
   </a>
 </div>
 
@@ -37,6 +37,9 @@
   </a>
   <a href="https://github.com/herikLorencao">
     <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  </a>
+  <a href="https://github.com/herikLorencao">
+    <img align="center" alt="Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   </a>
   <a href="https://github.com/herikLorencao">
     <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
